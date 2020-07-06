@@ -1,4 +1,4 @@
-# Classifying Medical vs Alternative Medical Research Papers Using Machine Learning.ipynb
+# Classifying Medical vs Alternative Medical Research Papers Using Machine Learning
 
 In the age of social media, discriminating between facts, fiction and 'fake-news' has become increasingly difficult. Concerningly, misinformation regarding what
 constitutes sound medical advice has been proliferating through social media. In this project, I attempted to utilize machine learning to determine whether on a 
