@@ -9,4 +9,3 @@ with the highest accuracy obtained of 96% using artifical neural networks. Inter
 accuracy of 84.9% and 90% respectively. This project shows not only that science and pseudoscience can be differentiated by machine learning on a fundamental level,
 but that utilizing a smaller feature set such as titles might not perform as well as a larger feature set such as abstracts.
 
-This project was completed as my final project required by the Brainstation Data Science course. 
